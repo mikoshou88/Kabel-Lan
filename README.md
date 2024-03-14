@@ -32,10 +32,10 @@ Contoh rangkaian kabel LAN ethernet Straight dan Cross
 #### 5. Untuk memastikan apakah kabel sudah terpasang semua kita harus mengetes nya dengan LAN tester. Jika pada pin-out kedapatan satu lampu tidak hidup atau loncat maka dipastikan kabel nya gagal alhasil kita harus mengulang dari awal lagi.
 
 #### 6. Rangkaian Kabel LAN Straight
-![6](6.jpg)
+![6](6.jpeg)
 
 #### 7. Rangkaian Kabel LAN Cross
-![7](5.jpg)
+![7](5.jpeg)
 
 Kesimpulan dari proses membuat kabel LAN Ethernet adalah sebagai berikut:
 
